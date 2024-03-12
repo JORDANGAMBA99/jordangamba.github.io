@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+My name is Jordan Gamba I am a data analyst and technical writer who is passionate about inspired content.
+I am particularly interested in SQL and database design. So expect lots of articles about Postgresql and SQL.
+So sit back and relax and lets learn together
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
